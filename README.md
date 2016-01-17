@@ -9,7 +9,7 @@ Shell was created to solve a programming project in the Operating Systems Concep
 
 It has a lot of globals, which is something I wouldn't do now. But it's split into different functions fairly well.
 
-Go to the website at the top for more info about the development process.
+Go to http://www.josephcmontgomery.com/projects.html#shell for more info about the development process.
 
 ## Building and Use Instructions
 `make` should build it. `./shell` should execute it. 
